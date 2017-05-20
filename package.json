@@ -1,14 +1,21 @@
 {
   "name": "@shc/npm_project",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
-  "author": "",
+  "author": "ShihHungChen",
   "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  }
+  "description": "Free Code Camp Course - npm",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShihHungChen/npm-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ShihHungChen/npm-project/issues"
+  },
+  "homepage": "https://github.com/ShihHungChen/npm-project#readme"
 }
